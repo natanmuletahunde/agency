@@ -1,0 +1,218 @@
+#nav_bar{
+display:flex;
+gap: 2rem;
+justify-content: space-around;
+justify-items: center;
+align-items: center;
+background-color: #110427;
+}
+#lists{
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+  font-family: arial;
+}
+#demo{
+  height: 35px;
+  width: 130px;
+  border-radius: 20px;
+  background-color:#4642F6 ;
+  color: whitesmoke;
+  border: none;
+}
+#we_help{
+  margin-left:550px;
+  font-size: larger;
+  font-family: Arial;
+  
+}
+#Business{
+  margin-left:650px;
+  margin-top: -15px;
+  font-size: larger;
+  font-family: Arial;
+}
+#paragraph{
+  margin-left:580px;
+  font-family: arial;
+}
+#paragrap{
+  margin-left:650px;
+  margin-top: -9px;
+  font-family: arial;
+}
+#learn{
+  height:45px;
+  width: 130px;
+  border-radius: 20px;
+  margin-left: 700px;
+  margin-top: 20px;
+  background-color:#EF545E ;
+  color:#EAEEEB ;
+  font-family: arial;
+  font-weight: bold;
+  border: none;
+}
+#persones{
+display: flex;
+justify-content: space-around;
+margin-top: 20px;
+height: 500px;
+align-items: center;
+
+}
+#person1{
+  height:300px;
+  width:200px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: 45px;
+  margin-left: 55px;
+  margin-left: 40px;
+  background-color: #FF8D4E;
+
+}
+#person2{
+  height:300px;
+  width:200px;
+  margin-right:650px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-top:-300px;
+  margin-left: 60px;
+  background-color: #FDD97B;
+}
+#person3{
+  height:300px;
+  width:200px;
+  margin-left:-600px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: 45px;
+  background-color: #C3C2BF;
+}
+#person4{
+  height:300px;
+  width:200px;
+  margin-right:330px;
+  margin-left: 50px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: 45px;
+  margin-top:-250px;
+  background-color: #4642F6;
+}
+#person5{
+  height:300px;
+  width:200px;
+  margin-left: -300px;
+  margin-right: 40px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  background-color: rgb(36, 112, 112);
+}
+#bottom_div{
+
+  padding:10px;
+  display: flex;
+  justify-content: space-between;
+  height:150px ;
+  align-items: center;
+
+}
+#dimond{
+ 
+  height: 100px;
+  width: 100px;
+  transform: rotate(45deg);
+  margin-left: 20px;
+  align-items: center;
+ background-color: #F66968;
+ color: #520002;
+
+}
+#meet{
+  background-color:#FDD97B ;
+  color: black;
+  height: 170px;
+  width: 240px;
+  margin-left:-74px;
+  margin-right: -10px;
+  align-items: center;
+  padding-left: 20px;
+}
+#our{
+  display: flex;
+  margin-top: 30px;
+  gap: 1rem;
+  width: 200px;
+  height: 45px;
+  padding: 4px;
+  align-items: center;
+}
+#our_btn{
+width: 150px;
+height: 35px;
+border-radius: 15px;
+background-color: #262627;
+color: #C3C2BF;
+font-family: arial;border: none;
+}
+#contanier{
+  background-color:hsl(264, 77%, 12%);
+  color: #ffffff;
+}
+#person1_image{
+  
+  height:300px;
+  width:200px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: 40px;
+  margin-left: 55px;
+  margin-left: 0.1px;
+}
+#person2_image{
+  border: 1px  black solid;
+  height:300px;
+  width:200px;
+  margin-right:650px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-left: -1px;
+}
+#person3_image
+{
+  height:300px;
+  width:200px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: px;
+}
+#person4_image{
+  height:300px;
+  width:200px;
+  margin-right:330px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+  margin-bottom: 45px;
+}
+#person5_image{
+  height:300px;
+  width:200px;
+  margin-right: 40px;
+  background-color: black;
+  border-top-left-radius: 100px;
+  border-top-right-radius:100px;
+}
+
+
